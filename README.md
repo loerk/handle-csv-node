@@ -72,10 +72,10 @@ npm install --include dev
 
 This will install the latest versions of the following packages
 
-[express](https://www.npmjs.com/package/express)
-[cors](https://www.npmjs.com/package/cors)
-[dotenv](https://www.npmjs.com/package/dotenv)
-[csvtojson](https://www.npmjs.com/package/csvtojson)
+[express](https://www.npmjs.com/package/express)\
+[cors](https://www.npmjs.com/package/cors)\
+[dotenv](https://www.npmjs.com/package/dotenv)\
+[csvtojson](https://www.npmjs.com/package/csvtojson)\
 [nodemon](https://www.npmjs.com/package/nodemon) as devDependency
 
 3.  Create a .env File in the Root and define your preferred Port (e.g 5001)
