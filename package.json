@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "handle-csv-node",
+  "description": "Environment",
+  "version": "1.0.0",
+  "main": "data.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loerk/handle-csv-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loerk/handle-csv-node/issues"
+  },
+  "homepage": "https://github.com/loerk/handle-csv-node#readme"
+}
